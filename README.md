@@ -37,7 +37,7 @@
 
 ## 👤 About Me
 
-I'm a Computer Science undergraduate at **The Islamia University of Bahawalpur**, carrying a perfect **4.00/4.00 CGPA** on a full-tuition **CM Punjab Honhaar** merit scholarship. I build systems end-to-end — from the model architecture to the API to the interface a real user actually touches.
+I'm a Computer Science undergraduate at **The Islamia University of Bahawalpur**, carrying a perfect **4.00/4.00 CGPA** on a full-tuition **CM Punjab Honhaar** merit scholarship. I build systems end-to-end — model architecture, API layer, and the interface a real user actually touches.
 
 My focus sits at the intersection of **applied AI/ML engineering** and **full-stack product development**: compressing neural networks for edge deployment, designing retrieval-augmented systems for research workflows, and shipping usable software for people with limited connectivity or resources. I care about the gap between "it works in a notebook" and "it works on a farmer's phone with no signal" — closing that gap is the throughline of everything I build.
 
